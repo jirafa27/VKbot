@@ -1,3 +1,5 @@
+##Имена переменных названы русскими буквами, потому что заказчик так захотел 0_0
+
 import re
 from urllib.parse import urlparse, parse_qs
 import vk_api
